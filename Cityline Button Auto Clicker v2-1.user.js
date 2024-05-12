@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Cityline Button Auto Clicker v2
+// @name         Cityline_Button_Auto_Clicker_v2
 // @namespace    YourNamespace
 // @version      1
 // @description  Monitors the "前往購票" button and clicks it when it appears
